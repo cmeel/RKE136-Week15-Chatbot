@@ -10,6 +10,12 @@ body {
     background-color: lightpink;
 }
 
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
 .movie-poster {
     width: 300px;
     cursor: pointer;
